@@ -1,2 +1,2 @@
 # davenportroots
-davenportroots site using Firebase for hosting of Handshake Domain
+davenportroots top-level Handshake Domain
