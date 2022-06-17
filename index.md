@@ -6,6 +6,6 @@
 
 [![image](https://xl5jp24ysantnhjpeiykympgfgxglosq4orqgqwxsmbgjmuir4.arweave.net/uvqX65iQGzadLy_IwrDHmKa5lulDjowNC15MCZLKIj8)](http://nourish.droot/)
 
-[![image](https://yz2v72k7gptyvrq7kfaaw66a2la6x2ojmmurlgiggeh3o3nf.arweave.net/xnVf6V8z54rGH1FAC3v_A0sHr6cljKR_WZBjEPt22ls)](http://home.davenportroots.hns.is/)
+[![image](https://yz2v72k7gptyvrq7kfaaw66a2la6x2ojmmurlgiggeh3o3nf.arweave.net/xnVf6V8z54rGH1FAC3v_A0sHr6cljKR_WZBjEPt22ls)](http://home.davenportroots/)
 
 Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6abfkncy.arweave.net/1yWkd15g849lrVkWgwR8n5ohJVoBW0wpaPACVT-R-YM)](https://handshake.org/)
