@@ -21,5 +21,6 @@
 
 Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6abfkncy.arweave.net/1yWkd15g849lrVkWgwR8n5ohJVoBW0wpaPACVT-R-YM)](https://handshake.org/)
 
-<p style="font-size:301px">
-[![image](https://i.arxius.io/ccb70482.png)
+
+
+
