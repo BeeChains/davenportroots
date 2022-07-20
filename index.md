@@ -12,7 +12,7 @@
 <p style="color:#CD5C5C;">Welcome at DavenportRoots/</p>
 
 
-| [@innerinetco](https://twtter.com/innerinetco) | [IAm.BarronD/](http://iam.barrond.hns.to/) | [Nourish.dRoot/](http://nourish.droot/) | [dRoot/](http://droot/)
+| [@innerinetco](https://twtter.com/innerinetco) | [IAm.BarronD/](http://iam.barrond.hns.to/) | [perma.davenportroots/](http://perma.davenportroots.hns.is/) | [Nourish.dRoot/](http://nourish.droot/) | [dRoot/](http://droot/)
 | [𓂀🕸/](http://xn--ts7ds574a.hns.is/) | [InnerINetCo/](https://innerinetco/) | [InnerINetwork/](https://innerinetwork/) | [Link Tree @hnsroot](https://linktr.ee/hnsroot)
 
 [![image](https://xl5jp24ysantnhjpeiykympgfgxglosq4orqgqwxsmbgjmuir4.arweave.net/uvqX65iQGzadLy_IwrDHmKa5lulDjowNC15MCZLKIj8)](http://nourish.droot/)
