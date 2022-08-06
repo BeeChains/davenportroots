@@ -25,7 +25,7 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
 
 
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
-  <input type="hidden" name="amount" value="100" />
+  <input type="hidden" name="amount" value="3" />
   <input type="hidden" name="email" value="customer@example.com" />
   <input type="hidden" name="orderId" value="CustomOrderId" />
   <input type="hidden" name="notificationUrl" value="https://example.com/callbacks" />
