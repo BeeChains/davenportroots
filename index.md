@@ -24,7 +24,8 @@
 Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6abfkncy.arweave.net/1yWkd15g849lrVkWgwR8n5ohJVoBW0wpaPACVT-R-YM)](https://handshake.org/)
 
 
-
+# - 'I' seen as the first thought formed within and of Supreme mind ITSELF, as Living Root of the Tree of Knowledge.
+# - 'I' is Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's 'I'...
 
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="3" />
