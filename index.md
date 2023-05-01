@@ -48,6 +48,6 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
 <p>Our technologies are at the forefront of this exciting field. Join us on this journey of self-discovery and take your first step towards inner transformation.</p>
 </main>
 <footer>
-<p>&copy; davenport© 2023. All rights reserved.</p>
+<p>&copy; [davenport©/](https://hnsnetwork.com/names/xn--davenport-8la) 2023. All rights reserved.</p>
 </footer>
 # [WebMaster.SupportLocalRoots/](http://webmaster.supportlocalroots.hns.is/)
