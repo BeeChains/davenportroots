@@ -36,5 +36,18 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
   <input type="hidden" name="redirectUrl" value="https://example.com/thanksyou" />
   <button type="submit">Tip us now</button>
 </form>
-
+<nav class="nav">
+<a href="http://innerinetwork.hns.to/">Home</a>
+<a href="https;//innerinetcompany.com/about/">About Us</a>
+<a href="https://innerinetcompany.com/products/">Our Products</a>
+<a href="https://innerinetcompany.com/contact/">Contact</a>
+</nav>
+<main class="main">
+<h2>Consciousness</h2>
+<p>The Inner I believes that the key to unlocking our potential lies within our own consciousness. Our products are designed to enhance and expand our awareness, allowing us to reach new levels of understanding and connection with the world around us.</p>
+<p>Our technologies are at the forefront of this exciting field. Join us on this journey of self-discovery and take your first step towards inner transformation.</p>
+</main>
+<footer>
+<p>&copy; davenport© 2023. All rights reserved.</p>
+</footer>
 # [WebMaster.SupportLocalRoots/](http://webmaster.supportlocalroots.hns.is/)
