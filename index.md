@@ -49,6 +49,6 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
 </main>
 <footer>
       <p>&copy; <a href="https://hnsnetwork.com/names/xn--davenport-8la">davenport©</a> 2023. All rights reserved.</p>
-      <p><a href="data.csv">Download data as CSV</a></p>
+      <p><a href="data.csv">Download copy right as CSV - generated using Auto-GPT</a></p>
     </footer>
 # [WebMaster.SupportLocalRoots/](http://webmaster.supportlocalroots.hns.is/)
