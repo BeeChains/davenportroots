@@ -52,4 +52,24 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
       <p>&copy; <a href="https://hnsnetwork.com/names/xn--davenport-8la">davenport©</a> 2023. All rights reserved.</p>
       <p><a href="data.csv">Download demo copy right as CSV - generated using AutoWise and GPT</a></p>
     </footer>
+
+<script>
+      (function (w, d, s, o, f, js, fjs) {
+        w["chatsonic_widget"] = o;
+        w[o] =
+          w[o] ||
+          function () {
+            (w[o].q = w[o].q || []).push(arguments);
+          };
+        (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+        js.id = o;
+        js.src = f;
+        js.async = 1;
+        fjs.parentNode.insertBefore(js, fjs);
+      })(window, document, "script", "ws", "https://writesonic.s3.amazonaws.com/frontend-assets/CDN/botsonic.min.js");
+      ws("init", {
+        serviceBaseUrl: "https://api.writesonic.com",
+        token: "74103f72-3fe9-4337-b07a-38ee4405ab78",
+      });
+</script>    
 # [WebMaster.SupportLocalRoots/](http://webmaster.supportlocalroots.hns.is/)
