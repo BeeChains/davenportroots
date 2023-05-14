@@ -24,10 +24,6 @@
 
 Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6abfkncy.arweave.net/1yWkd15g849lrVkWgwR8n5ohJVoBW0wpaPACVT-R-YM)](https://handshake.org/)
 
-
-# - 'I' seen as the first thought formed within and of Supreme mind ITSELF, as Living Root of the Tree of Knowledge.
-# - 'I' is Root Access for the Self-Aware to Know Thyself via the mind's eye or say the mind's 'I'...
-
 <form method="POST" action="https://btcpay0.voltageapp.io/apps/2mPua76MsAJGadWU6odyAXoVatnm/pos">
   <input type="hidden" name="amount" value="3" />
   <input type="hidden" name="email" value="customer@example.com" />
@@ -47,10 +43,10 @@ Powered by Handshake [![image](https://24s2i526mdzy6znnleligbd4t6nccjk2afnuykli6
 <p>The Inner I believes that the key to unlocking our potential lies within our own consciousness. Our products are designed to enhance and expand our awareness, allowing us to reach new levels of understanding and connection with the world around us.</p>
 <p>Our technologies are at the forefront of this exciting field. Join us on this journey of self-discovery and take your first step towards inner transformation.</p>
 </main>
-# Get <a href="https://innerinetwork.gumroad.com/l/ycyfd">AutoWise.py</a> for autonomous document generator!
+# Get <a href="https://innerinetwork.gumroad.com/l/ycyfd">AutoWise.py</a> an document generator that uses a OpenAI API.
 <footer>
       <p>&copy; <a href="https://hnsnetwork.com/names/xn--davenport-8la">davenport©</a> 2023. All rights reserved.</p>
-      <p><a href="data.csv">Download demo copy right as CSV - generated using AutoWise and GPT</a></p>
+      <p><a href="data.csv">Download a demo copy right as CSV - generated using AutoWise</a></p>
     </footer>
    
 # [WebMaster.SupportLocalRoots/](http://webmaster.supportlocalroots.hns.is/)
